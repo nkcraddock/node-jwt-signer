@@ -1,0 +1,16 @@
+{
+  "name": "node-jwt-signer",
+  "version": "0.0.1",
+  "description": "signs jwts for local applications without exposing the keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nathan craddock",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "~0.4.1",
+    "node-uuid": "~1.4.1",
+    "q": "~1.0.1"
+  }
+}
